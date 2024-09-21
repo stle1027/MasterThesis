@@ -70,8 +70,5 @@ tensorboard
 /weights/*
 /datasets
 !demo/ycb_prototypes.pth
-/demo/input
-/demo/output
-/demo/ycb_prototypes.pth
 
 *sam_vit_h_4b8939.pth
