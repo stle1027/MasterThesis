@@ -10,7 +10,7 @@ datasets/coco
 datasets/lvis
 datasets/cifar-10-batches-py
 
-*.png
+#*.png
 *.jpg
 *.jpeg
 *.json

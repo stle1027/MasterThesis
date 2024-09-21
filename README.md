@@ -3,11 +3,11 @@
 ## Installation
 
 ```bash
-git clone https://github.com/mlzxy/devit.git
-conda create -n devit  python=3.9 
-conda activate devit
-pip install -r devit/requirements.txt
-pip install -e ./devit
+git clone https://github.com/stle1027/MasterThesis.git
+python3 -m venv virtual_environment
+source virtual_environment/bin/activate
+pip install -r MasterThesis/requirements.txt
+pip install -e ./MasterThesis
 ```
 
 Next, check [Downloads.md](Downloads.md) for instructions to setup datasets and model checkpoints.
