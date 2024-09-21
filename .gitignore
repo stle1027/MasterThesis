@@ -67,7 +67,7 @@ _darcs
 tmp.*
 tensorboard
 
-/weights
+/weights/*
 /datasets
 !demo/ycb_prototypes.pth
 /demo/input
